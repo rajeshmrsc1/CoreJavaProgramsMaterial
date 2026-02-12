@@ -1,0 +1,10 @@
+package core.java.programs;
+
+public class CheckEvenOdd {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
